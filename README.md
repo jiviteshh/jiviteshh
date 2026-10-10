@@ -1,135 +1,58 @@
-<h1 align="center">Hi, I'm Jivitesh 👋</h1>
+# Hi, I'm Jivitesh 👋
 
 <p align="center">
-  <b>Computer Science Undergraduate · Backend & Full-Stack Engineer · Cloud & AI Enthusiast</b><br/>
-  <i>Building production-ready systems at the intersection of software engineering, cloud, and AI</i>
+  <b>Software Engineer | Backend Development | AI Engineering | Cloud</b><br/>
+  <i>Building reliable backend systems and practical AI-powered applications.</i>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/naragam-jivitesh-71a4b8313">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:2300033701cseh2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/jiviteshh">
-    <img src="https://img.shields.io/badge/GitHub-jiviteshh-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
+  <a href="https://www.linkedin.com/in/naragam-jivitesh-71a4b8313"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:2300033701cseh2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/jiviteshh"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science at **KL University** with a CGPA of **9.3 / 10**
-- 💻 Backend-first developer focused on **scalable APIs, system design, and clean engineering practices**
-- 🔧 Experienced in building modern applications using **Java (Spring Boot), Python (Flask/Django), and React**
-- ☁️ Cloud enthusiast with certifications in **AWS CLF-C02** and **Microsoft Azure AZ-900**
-- 🤖 Interested in **AI-powered application engineering** using **Cohere, Groq, and ML workflows**
-- 🏆 **NPTEL Cloud Computing — Silver Medal (Top 2%)**
-- 📈 Solved **330+ DSA problems** across platforms like LeetCode, CodeChef, and HackerRank
-- 🌱 Core Team Member, **AWS Cloud Club, KL University**
-
----
+- 🎓 B.Tech CSE at **KL University** · CGPA: **9.3/10**
+- 💼 Software Engineering Intern at **ADP**
+- 🤖 Worked on **AI-assisted configuration validation** using Go and LLM integration
+- ☁️ Certified in **AWS Cloud Practitioner** and **Microsoft Azure Fundamentals**
+- 🥈 **NPTEL Cloud Computing Silver Medal** — Top 2%
+- 📈 Solved **330+ DSA problems**
 
 ## 🛠️ Tech Stack
 
-### Languages
-Java · Python · JavaScript · SQL · C++
-
-### Backend
-Spring Boot · Flask · Django · REST APIs · JWT · Authentication
-
-### Frontend
-React · HTML · CSS · JavaScript
-
-### Cloud & DevOps
-AWS · Azure · Docker · GitHub Actions · CI/CD · Linux
-
-### Databases
-MySQL · PostgreSQL · SQLite
-
-### AI / ML
-Scikit-learn · Pandas · Cohere · Groq · ML Pipelines
-
----
+- **Languages:** Java, Python, Go, JavaScript, SQL
+- **Backend:** Spring Boot, FastAPI, Flask, Django, REST APIs
+- **AI Engineering:** LLM Integration, Cohere, Groq, NVIDIA NIM
+- **Cloud & DevOps:** AWS, Azure, Docker, GitHub Actions, CI/CD
+- **Databases:** MySQL, PostgreSQL, SQLite
+- **Frontend:** React, Next.js, HTML, CSS
 
 ## 🚀 Featured Projects
 
-### 🔐 Secure Digital Locker
-- Built a **role-based document management platform** with secure access control
-- Implemented **JWT authentication, approval workflows, and audit logging**
-- Integrated **AWS S3** for secure file storage and scalable document handling
-- **Stack:** Spring Boot · React · MySQL · AWS
+- **[QuestIDE](https://github.com/jiviteshh)** — AI-powered coding workspace with contextual debugging assistance and code execution.
+- **Secure Digital Locker** — Role-based document management with JWT authentication and AWS S3 storage.
+- **PromptPress** — AI-powered news aggregation, summarization, and automated email delivery.
+- **CineMatchAI** — Movie recommendation system using machine learning and similarity-based models.
 
-### 📰 PromptPress
-- Developed an **AI-powered news aggregation and summarization platform**
-- Added **real-time news feeds, AI-driven summaries, chatbot assistance, and automated email delivery**
-- Integrated **Cohere and Groq APIs** for natural language processing and summarization
-- **Stack:** Flask · AI APIs · SMTP
+## 🏆 Certifications
 
-### 🎬 CineMatchAI
-- Built a **machine learning-based recommendation system** for movies
-- Processed **42K+ movies across 75 languages and 25 genres**
-- Implemented recommendation models using **Scikit-learn and Pandas**
-- **Stack:** Flask · ML
+- AWS Certified Cloud Practitioner (CLF-C02)
+- Microsoft Azure Fundamentals (AZ-900)
+- NPTEL Cloud Computing — Silver Medal
+- Cambridge Lingua Skills Certificate
 
-### 💰 Budget Planner
-- Designed a **full-stack expense tracking system** with a CI/CD workflow
-- Containerized the app with **Docker** and automated deployment using **GitHub Actions**
-- **Stack:** React · Spring Boot · Docker
-
-### 🔍 KL Lost & Found
-- Created a **campus-wide lost and found platform** with image-based reporting
-- Improved the process of tracking and recovering lost items for students
-- **Stack:** Django · HTML · CSS
-
-### 🏫 Vacant Class Tracker
-- Developed a **crowdsourced real-time classroom availability system**
-- Helped optimize space utilization and improve student convenience
-- **Stack:** Django · SQLite
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🥈 **NPTEL Cloud Computing — Silver Medal (Top 2%)**
-- ☁️ **AWS Certified Cloud Practitioner (CLF-C02)**
-- 🔷 **Microsoft Azure Fundamentals (AZ-900)**
-- 📜 **Cambridge Lingua Skills Certificate**
-- 💻 Solved **330+ DSA problems** across leading coding platforms
-- 🤖 Built an **automated job alert system** using APIs and workflow automation
-- 🌐 Maintained **15+ active GitHub repositories**
-
----
-
-## 📊 GitHub Insights
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiviteshh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiviteshh&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🤝 Open to Work
-
-I’m actively looking for opportunities in:
-
-- Backend Development
-- Full-Stack Engineering
-- Cloud / DevOps
-- AI Product Engineering
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/naragam-jivitesh-71a4b8313">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:2300033701cseh2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
-  </a>
-</p>
-
-<p align="center">
-  <i>"Building scalable systems that solve real-world problems."</i>
+  <i>Interested in backend engineering, AI-powered products, and cloud-native systems.</i>
 </p>
